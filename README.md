@@ -2,12 +2,6 @@
 
 ### Run Locally
 
-Clone the project
-
-```bash
-  git clone https://github.com/deepamkalekar/Sale-Data-Analysis-PowerBI.git
-```
-
 Go to the project directory and open ``` .pbix ``` file with Microsoft Power BI Desktop
 
 ### Data Analysis Using SQL
@@ -53,9 +47,9 @@ and transactions.market_code="Mark001";`
 Power BI Dashboard Preview
 ============================
 
-![Page1](https://github.com/deepamkalekar/Sale-Data-Analysis-PowerBI/blob/master/Sales-key-insight.png)
-![Page2](https://github.com/deepamkalekar/Sale-Data-Analysis-PowerBI/blob/master/sales-profit-analysis.png)
-![Page3](https://github.com/deepamkalekar/Sale-Data-Analysis-PowerBI/blob/master/sales-performance-insight.png)
+![Page1](https://github.com/yashbo/Sales-project/Sales-key-insight.png)
+![Page2](https://github.com/yashbo/Sales-project/sales-profit-analysis.png)
+![Page3](https://github.com/yashbo/Sales-project/sales-performance-insight.png)
 
 
 
